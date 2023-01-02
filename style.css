@@ -1,0 +1,635 @@
+/* Task1 */
+.task1 {
+    background-color: gray;
+}
+
+.container .header {
+    margin-left: 700px;
+    margin-top: 55px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+#navbar .menu-main {
+    display: flex;
+    justify-content: center;
+    background-color: violet;
+}
+
+.menu-main .home1 {
+    margin-right: 1200px;
+}
+
+.menu-main .our-team {
+    margin-left: 200px;
+    margin-top: -20px;
+}
+
+
+.menu-main .projects {
+    margin-left: 450px;
+    margin-top: -20px;
+}
+
+.menu-main .contact {
+    margin-left: 750px;
+    margin-top: -20px;
+}
+
+#navbar .search {
+    margin-left: 1200px;
+    margin-top: -35px;
+}
+
+.search .go {
+    background-color: black;
+    color: white;
+    margin-left: 5px;
+}
+
+.article .article-heading {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    margin-left: 690px;
+    margin-top: 30px;
+}
+
+.article {
+    background-color: white;
+    width: 1300px;
+    height: 400px;
+}
+
+.article .subsection {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.article .another-subsection {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.container .related {
+    margin-left: 1320px;
+    margin-top: -420px;
+
+}
+
+.related .relate {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+
+}
+
+.related {
+    background-color: violet;
+    width: 310px;
+    height: 400px;
+    margin-right: 50px;
+}
+
+.container .copyright {
+    margin-top: 20px;
+    background-color: white;
+    height: 70px;
+}
+
+
+/* Task2 */
+.task2 {
+    background-color: darkgray;
+}
+
+.main .tinycards {
+    color: palevioletred;
+    font-weight: bold;
+}
+
+.main .home {
+    font-weight: bold;
+}
+
+.main .text {
+    background-color: hotpink;
+    color: white;
+    height: 23px;
+}
+
+
+
+/* Task3 */
+.website .banner {
+    background-color: chocolate;
+    height: 500px;
+    display: block;
+}
+
+.banner .ban {
+    margin-left: 350px;
+    margin-top: -5px;
+    padding: 200px;
+}
+
+.webinfor {
+    background-color: burlywood;
+    height: 500px;
+    margin-top: -50px;
+}
+
+.paragraph .informative {
+    color: brown;
+}
+
+.website .navmenu {
+    margin-bottom: 80px;
+    padding: 20px;
+}
+
+.navmenu .hom {
+    margin-left: 480px;
+    color: green;
+    font-weight: bold;
+}
+
+.navmenu .con {
+    margin-left: 90px;
+    color: green;
+    font-weight: bold;
+}
+
+.navmenu .info {
+    margin-left: 90px;
+    color: green;
+    font-weight: bold;
+}
+
+.navmenu .hub {
+    margin-left: 90px;
+    color: green;
+    font-weight: bold;
+}
+
+
+
+/* Task4 */
+.task4 {
+    background-color: gainsboro;
+}
+
+.content .derek {
+    background-color: white;
+    display: flex;
+    height: 90px;
+
+}
+
+.derek .ambrose {
+    margin-left: 200px;
+    color: white;
+    background-color: teal;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 1.5em;
+    text-align: center;
+    width: 300px;
+    padding: 10px;
+}
+
+.derek .about {
+    margin-left: 550px;
+    padding: 30px;
+    color: grey;
+    border-radius: 1px;
+}
+
+.derek .portfolio {
+    padding: 30px;
+    color: grey;
+}
+
+.derek .connect {
+    padding: 30px;
+    color: grey;
+}
+
+
+.content .aboutMe {
+    background-color: white;
+    margin-left: 200px;
+    width: 700px;
+}
+
+.aboutMe .about-me {
+    margin-left: 10px;
+    padding: 10px;
+    color: teal;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.aboutMe .derek-am {
+    margin-left: 10px;
+}
+
+.about-me .derekLorem {
+    padding-right: 100px;
+}
+
+
+.content .channel {
+    background-color: white;
+    margin-left: 970px;
+    width: 300px;
+    height: 170px;
+    margin-top: -425px;
+    color: teal;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+
+.channel .connect-with {
+    text-align: center;
+    padding: 20px;
+}
+
+.channel .img {
+    text-align: center;
+}
+
+.aboutMe .basic-web {
+    margin-left: 250px;
+    margin-top: -290px;
+    color: grey;
+
+}
+
+
+.content .derek-link {
+    padding: 100px;
+    text-align: center;
+    margin-top: -25px;
+    background-color: darkgray;
+    color: gray;
+
+}
+
+.content .color {
+    background-color: teal;
+    color: teal;
+    margin-top: 239px;
+}
+
+
+/* Task5 */
+.task5 {
+    background-color: azure;
+}
+
+.main-app {
+    margin-left: 550px;
+}
+
+.main-app .image {
+    margin-top: 200px;
+}
+
+.main-app .myapp {
+    margin-left: 165px;
+    margin-top: 400px;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.main-app .email {
+    margin-top: 10px;
+    margin-left: 95px;
+    width: 300px;
+    height: 40px;
+}
+
+.main-app .password {
+    margin-top: 2px;
+    margin-left: 95px;
+    width: 300px;
+    height: 40px;
+}
+
+.main-app .login {
+    margin-top: 25px;
+    margin-left: 95px;
+    width: 305px;
+    height: 40px;
+}
+
+.main-app .login {
+    background-color: dodgerblue;
+    color: white;
+    border-color: dodgerblue;
+    border-bottom: 1px;
+}
+
+.main-app .link {
+    margin-left: 75px;
+}
+
+
+/* Task6 */
+
+.html {
+    background-color: dimgrey;
+    height: 90px;
+}
+
+.html .html5 {
+    color: white;
+    padding: 25px;
+}
+
+.html .html-5 {
+    margin-top: -75px;
+    margin-left: 99px;
+    color: orange;
+}
+
+.html .table {
+    background-color: darkgrey;
+    height: 30px;
+    padding: 10px;
+    color: white;
+}
+
+.heading-lorem .heading {
+    margin-left: 240px;
+    margin-top: 20px;
+}
+
+.heading-lorem .box1{
+    background-color: lightgray;
+    height: 150px;
+    width: 150px;
+    margin-top: -150px;
+    margin-left: 20px;
+}
+
+.box1 .box-1{
+    color:lightgray;
+}
+
+.heading-lorem .box2{
+    background-color: lightgray;
+    height: 150px;
+    width: 150px;
+    margin-top: -150px;
+    margin-left: 20px;
+}
+
+.box2 .box-2{
+    color:lightgray;
+}
+
+
+.heading .read{
+    color: orange;
+}
+
+.heading-lorem .ipsum {
+    margin-left: 240px;
+    margin-top: 50px;
+}
+
+.heading-lorem .box3{
+    background-color: lightgray;
+    height: 150px;
+    width: 150px;
+    margin-top: -150px;
+    margin-left: 20px;
+}
+
+.box3 .box-3{
+    color:lightgray;
+}
+
+.ipsum .read{
+    color: orange;
+}
+
+
+.heading-lorem .ipsum-lorem {
+    margin-left: 240px;
+    margin-top: 50px;
+}
+
+.ipsum-lorem .read{
+    color: orange;
+}
+
+.html .sidbar {
+    margin-left: 1100px;
+    margin-top: -570px;
+    background-color: lightgrey;
+    height: 640px;
+}
+
+
+.sidbar .sidbar-links {
+    margin-left: 20px;
+    margin-top: 1.5px;
+    padding: 10px;
+}
+
+.sid .links1 {
+    color: orange
+}
+
+
+.sid .links2 {
+    color: orange
+}
+
+
+.sid .links3 {
+    color: orange
+}
+
+
+.sid .links4 {
+    color: orange
+}
+
+
+.other .widgets {
+    margin-left: 20px;
+}
+
+.other .duis {
+    margin-left: 20px;
+}
+
+.sidbar .sid {
+    margin-left: 30px;
+}
+
+
+.other .photoshop {
+    margin-left: 20px;
+}
+
+.html .yoursite {
+    margin-top: 0px;
+    text-align: center;
+    background-color: dimgrey;
+    height: 0px;
+    padding: 60px;
+}
+
+.yoursite .site{
+    margin-left: 5px;
+    color: orange;
+}
+
+.yoursite .rights{
+    margin-left: 3px;
+}
+
+
+/* Task7 */
+.enter-site{
+    background-color: rgb(34, 41, 48);
+}
+
+.enter-site .enter{
+   margin-left: 445px;
+   margin-top: 40px;
+}
+
+.enter-site .new-page{
+    margin-left: 445px;
+    color: white;
+    background-color: darkslategray;
+    width: 723px;
+    height: 15px;
+    padding: 20px;
+    font-size: small;
+
+}
+
+.new-page .new-home{
+    margin-left: 10px; 
+   
+}
+
+.new-page .new-contact{
+    margin-left: 50px;
+}
+
+.new-page .new-page1{
+    margin-left: 50px;
+}
+
+.new-page .new-page2{
+    margin-left: 50px;
+}
+
+
+.new-page .new-page3{
+    margin-left: 50px;
+}
+
+
+.new-page .new-page4{
+    margin-left: 50px;
+}
+
+.enter-site .mainMenu{
+    margin-left: 40px;
+    color: rgb(139, 136, 136);
+    font-size: small;
+}
+
+.enter-site .main-menu{
+    margin-left: 445px;
+}
+
+.enter-site .gallery{
+    margin-left: 645px;
+    margin-top:-210px;
+    
+}
+
+.gallery .new-gallery{
+    color: rgb(139, 136, 136);
+    font-size: small;
+}
+
+.gallery .lorem-gallery{
+    width: 560px;
+    border:solid;
+    border-left-color:  rgb(34, 41, 48);
+    border-right-color:  rgb(34, 41, 48);
+    border-top-color:  rgb(139, 136, 136);
+    border-bottom-color:  rgb(34, 41, 48);
+    padding: 6px;    
+    color: rgb(139, 136, 136);
+}
+
+.enter-site .block{
+    margin-top:50px;
+    margin-left: 445px;
+    color:rgb(139, 136, 136);
+}
+
+.block .new-block{
+    margin-left: 40px;
+}
+
+.block .lorem-block{
+    width: 200px;
+    border: ridge;
+    border-left-color:  rgb(34, 41, 48);
+    border-right-color:  rgb(72, 73, 75);
+    border-top-color:  rgb(34, 41, 48);
+    border-bottom-color:  rgb(48, 57, 67);
+}
+
+
+.enter-site .subscription{
+    margin-left: 690px;
+    margin-top: -320px;
+    color:rgb(139, 136, 136);
+    width: 250px;
+    border:solid;
+    border-left-color:  rgb(34, 41, 48);
+    border-right-color:  rgb(139, 136, 136);
+    border-top-color: rgb(34, 41, 48);
+    border-bottom-color:  rgb(34, 41, 48);
+}
+
+
+.enter-site .other-services{
+    margin-left: 980px;
+    margin-top: -350px;
+    color:rgb(139, 136, 136);
+    width: 250px;    
+}
+
+.readMore{
+    height: 30px;
+    margin-top: 80px;
+}
+
+.read-more{
+    height: 30px;    
+}
+
+
+.enter-site .copy{
+    text-align: center;
+    color:rgb(139, 136, 136);
+}
